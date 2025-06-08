@@ -1,0 +1,7 @@
+fastapi==0.115.9
+langchain
+langchain-google-genai
+langchain-chroma
+mlflow
+uvicorn
+python-dotenv
